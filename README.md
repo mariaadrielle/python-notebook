@@ -46,31 +46,19 @@ Atuar como um assistente de estudos de Python para iniciantes, explicando concei
 
 A resposta organizou os fundamentos em cinco grupos: sintaxe e indentação; variáveis e tipos de dados; operadores e controle de fluxo; estruturas de dados; e funções, módulos e tratamento de erros.
 
-**Fontes citadas na resposta:** a verificar.
-
 ### 2. Como posso usar Python para ler uma planilha e identificar valores ausentes, registros duplicados e dados inválidos?
 
 A resposta apresentou o uso do Pandas para ler planilhas, identificar valores ausentes com `isnull()`, detectar duplicatas com `duplicated()` e encontrar inconsistências usando filtros e regras de validação.
-
-**Fontes citadas na resposta:** a verificar.
 
 ### 3. Com base nas fontes disponíveis, explique a diferença entre uma lista, uma tupla e um dicionário em Python.
 
 A resposta comparou as três estruturas considerando sintaxe, mutabilidade e acesso aos dados. Listas e tuplas utilizam índices numéricos, enquanto dicionários organizam informações em pares de chave e valor.
 
-**Fontes citadas na resposta:** a verificar.
-
-## Materiais gerados
-
-Os materiais produzidos no Estúdio do notebook, como vídeos, mapas mentais e slides, serão adicionados ao repositório conforme forem concluídos.
-
-Capturas de tela das respostas com suas citações também serão incluídas como evidências dos testes realizados.
-
 ## Notebook compartilhado
 
 **Nome:** Aprendendo Python do Zero
 
-**Link:** (https://notebook.google.com/notebook/30561dbe-a672-436c-999a-c89079ca34bc).
+[Link do Notebook](https://notebook.google.com/notebook/30561dbe-a672-436c-999a-c89079ca34bc)
 
 ## Ferramentas utilizadas
 
