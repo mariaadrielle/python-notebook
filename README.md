@@ -42,17 +42,31 @@ Atuar como um assistente de estudos de Python para iniciantes, explicando concei
 
 ## Perguntas e resultados
 
-### 1. Quais são os conceitos fundamentais de Python que um iniciante precisa compreender primeiro?
+## Perguntas e respostas do notebook
 
-A resposta organizou os fundamentos em cinco grupos: sintaxe e indentação; variáveis e tipos de dados; operadores e controle de fluxo; estruturas de dados; e funções, módulos e tratamento de erros.
+### Teste 1 — Fundamentos de Python
 
-### 2. Como posso usar Python para ler uma planilha e identificar valores ausentes, registros duplicados e dados inválidos?
+**Prompt:**
+Quais são os conceitos fundamentais de Python que um iniciante precisa compreender primeiro?
 
-A resposta apresentou o uso do Pandas para ler planilhas, identificar valores ausentes com `isnull()`, detectar duplicatas com `duplicated()` e encontrar inconsistências usando filtros e regras de validação.
+**Resposta resumida:**
+O notebook organizou os fundamentos em cinco grupos: sintaxe e indentação; variáveis e tipos de dados; operadores e controle de fluxo; estruturas de dados; e funções, módulos e tratamento de erros.
 
-### 3. Com base nas fontes disponíveis, explique a diferença entre uma lista, uma tupla e um dicionário em Python.
+### Teste 2 — Validação de planilhas
 
-A resposta comparou as três estruturas considerando sintaxe, mutabilidade e acesso aos dados. Listas e tuplas utilizam índices numéricos, enquanto dicionários organizam informações em pares de chave e valor.
+**Prompt:**
+Como posso usar Python para ler uma planilha e identificar valores ausentes, registros duplicados e dados inválidos?
+
+**Resposta resumida:**
+O notebook apresentou o Pandas e métodos como `isnull()` e `duplicated()`, além de filtros para identificar inconsistências.
+
+### Teste 3 — Estruturas de dados
+
+**Prompt:**
+Com base nas fontes disponíveis, explique a diferença entre uma lista, uma tupla e um dicionário em Python.
+
+**Resposta resumida:**
+A resposta comparou sintaxe, mutabilidade e acesso aos dados, destacando que listas e tuplas usam índices, enquanto dicionários organizam dados em pares de chave e valor.
 
 ## Notebook compartilhado
 
