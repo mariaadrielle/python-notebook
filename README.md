@@ -70,7 +70,7 @@ Capturas de tela das respostas com suas citações também serão incluídas com
 
 **Nome:** Aprendendo Python do Zero
 
-**Link:** a adicionar.
+**Link:** (https://notebook.google.com/notebook/30561dbe-a672-436c-999a-c89079ca34bc).
 
 ## Ferramentas utilizadas
 
